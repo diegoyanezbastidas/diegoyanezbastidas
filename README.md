@@ -41,3 +41,15 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegoyanezbastidas&show_icons=true&locale=en&layout=compact" alt="diegoyanezbastidas" /></p>
+
+📊 **Mis estadísticas de GitHub**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diegoyanezbastidas&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+
+**🛠 Tech Stack:**
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Nutanix](https://img.shields.io/badge/Nutanix-%23008080.svg?style=for-the-badge&logo=nutanix&logoColor=white)
